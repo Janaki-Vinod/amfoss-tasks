@@ -1,0 +1,1 @@
+I started looking for template for my persona page on internet. I added a new web page to it , changed the icons, added texts  and changed fonts. It was a very basic template, I modified aligments added photoes 

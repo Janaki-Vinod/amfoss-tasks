@@ -1,0 +1,2 @@
+The task is basically about python based CLI app which was a new experience to me since I have'nt worked with command line based program.  
+It was my first time working out of the box. I have learned using modules like datetime,argparse ,requests  which was something new to learn. This program was very different from the codes I was used to since it included accessing resources from remote URL. I also learned the proper use of basic string methods like strip and lower which came very handy to me .  Parsing JSON data was also interesting

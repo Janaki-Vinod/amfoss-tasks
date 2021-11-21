@@ -1,0 +1,17 @@
+#####Even Febanocci Numbers#######
+    
+ n=int(input())
+for i in range (n):
+    l=[0,1,2]
+    d=int(input())
+    p=0
+    while True:
+        s=l[-1]+l[-2]
+        l.append(s)
+        if s>d:
+            break
+
+    for i in l:
+        if i<d and i%2==0:
+            p=p+i
+    print(p)

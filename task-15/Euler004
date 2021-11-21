@@ -1,0 +1,21 @@
+##########Largest Pallindrome Product#########
+
+
+t=int(input())
+for i in range(t):
+    l=[]
+    d=int(input())
+    for i in range(100,1000):
+        for j in range(100,1000):
+            s=i*j
+            l.append(s)
+    l.sort()
+    for f in l:
+        if f>d:
+            q=l.index(f)
+            break
+    s=(l[q])
+    u=l.count(s)
+    print(l[q-u-1])
+    
+    
