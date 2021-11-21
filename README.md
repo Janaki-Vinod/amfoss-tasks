@@ -38,7 +38,7 @@ I also want to complete the task I have not attempted learn golang. For these ta
 
 
 
-** How would you contribute back to the club?**
+**How would you contribute back to the club?**
  
  I can use my knowledge and ability to contribute my best. I hope to work with likeminded people who think out of the box. I am not pretty sure of what I will do, but will do what ever I can. I will learn more and do my maximum.
 
@@ -46,6 +46,6 @@ I also want to complete the task I have not attempted learn golang. For these ta
 
 
  
-** Do you have any feedback on the selection process?**
+**Do you have any feedback on the selection process?**
  
  By what I understood so far, the agentha of the selection process is not to find the brightest brains or the smartest ones. It mainly focuses on testing your willingness to learn new things and your determination to do something you have'nt even heard of. It tests your will. Actually that is the most necessary thing you need when you work as a team , the willingness to learn , the willingness to do. What you know does'nt matter as long as you are willing to learn more.
